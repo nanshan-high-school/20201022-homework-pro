@@ -7,4 +7,5 @@
 
 ---
 
-Repl 連結：pq :https://repl.it/@howardyu/pq
+Repl 連結：pq :https://repl.it/@howardyu/pq#main.cpp
+           train :https://repl.it/@howardyu/train#main.cpp
